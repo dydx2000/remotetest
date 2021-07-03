@@ -1,0 +1,4 @@
+Hello GIT,
+hello linux,
+hello git hub.
+after git init.
